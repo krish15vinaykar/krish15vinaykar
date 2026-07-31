@@ -46,8 +46,6 @@
   <img title="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-*(Hover over any badge above to see a tooltip with its name)*
-
 ---
 
 ### 📌 Featured Projects
@@ -91,24 +89,6 @@ Built an end-to-end loan approval prediction pipeline during my AI/ML internship
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish15vinaykar&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/krish15vinaykar/krish15vinaykar/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
-### 🏆 Certifications & Achievements
-
-- Qualified **GATE 2026**
-- Solved 50+ LeetCode & 50+ GeeksforGeeks problems (Striver's A2Z Sheet, Shraddha Khapra's DSA course)
-- Artificial Intelligence & Machine Learning Course — Apna College
-- Python Programming Certification
-- Data Structures & Algorithms Course
 
 ---
 
